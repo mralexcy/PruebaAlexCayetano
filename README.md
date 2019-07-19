@@ -14,9 +14,9 @@ Porque el proyecto no era tan grande, y a este nivel es escalable, mantenible.
 
 Capas del Proyect
 =====================
-Controladores => Controllers
-Model         => Model
-View          => Storyboard
+Controladores => Controllers <br>
+Model         => Model<br>
+View          => Storyboard<br>
 
 Base Realtime
 =====================
