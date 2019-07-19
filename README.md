@@ -29,3 +29,6 @@ Firebase Storage para alamacenar las fotos en las nubes
 Persistencia
 ============
 Se creo la clase Session, la cual trabaja con UserDefaults para el manejo de sesiones de usuario.
+
+<br><br>
+Saludos
