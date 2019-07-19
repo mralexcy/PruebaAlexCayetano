@@ -12,3 +12,20 @@ Porque se realizó MVC
 =====================
 Porque el proyecto no era tan grande, y a este nivel es escalable, mantenible.
 
+Capas del Proyect
+=====================
+Controladores => Controllers
+Model         => Model
+View          => Storyboard
+
+Base Realtime
+=====================
+Se uso Firestore para agregar los posts a la BD
+
+Storage - Firebase Storage
+=========================
+Firebase Storage para alamacenar las fotos en las nubes
+
+Persistencia
+============
+Se creo la clase Session, la cual trabaja con UserDefaults para el manejo de sesiones de usuario.
